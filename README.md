@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# ReactCountries
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Démarrage du projet ReactCountries avec "Create React App"
+
+# Utilisation d'une API
+https://restcountries.com/v3.1/all
+
 
 ## Available Scripts
 
@@ -13,3 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+# Lien du projet
+https://react-countriess.netlify.app/
